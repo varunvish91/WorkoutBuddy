@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">WorkoutBuddy</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_create_workout_program">CreateWorkoutProgram</string>
+    <string-array name="workouts">
+        <item>Rope Pull Down</item>
+        <item>Skull Crusher</item>
+        <item>Barbell Bench Press</item>
+        <item>Barbell Incline Bench Press</item>
+    </string-array>
+</resources>
